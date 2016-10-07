@@ -16,12 +16,15 @@ DATABASE_URL=postgres://jrob@localhost:5432/floworky
 ## Specifications
 
 - [ ] Users can filter items to show only completed items or to show all items.
-- [ ] Users can mark an item as complete.
-- [ ] Items display on the logged in index page.
-- [ ] Site copy is meaningful and doesn't make users run away in fear.
-- [ ] Users can add items to do.
-- [ ] Site is deployed to Heroku
-- [ ] Developers have an automated test framework that can be run during development and CI, so that they can verify their code is functional in the development and deployment to production environments.
+- [X] Users can mark an item as complete.
+- [X] Items display on the logged in index page.
+- [X] Site copy is meaningful and doesn't make users run away in fear.
+- [X] Users can add items to do.
+- [X] Site is deployed to Heroku
+- [X] Developers have an automated test framework that can be run during development and CI, so that they can verify their code is functional in the development and deployment to production environments.
+
+## Quality Rubric
+- [X] Pull requests are merged into the original Floworky repo. (all pull requests made have been merged)
 
 ## Technical Stack
 
