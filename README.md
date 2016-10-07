@@ -13,6 +13,16 @@ Floworky uses [`node-foreman`](https://github.com/strongloop/node-foreman) to ma
 DATABASE_URL=postgres://jrob@localhost:5432/floworky
 ```
 
+## Specifications
+
+- [ ] Users can filter items to show only completed items or to show all items.
+- [ ] Users can mark an item as complete.
+- [ ] Items display on the logged in index page.
+- [ ] Site copy is meaningful and doesn't make users run away in fear.
+- [ ] Users can add items to do.
+- [ ] Site is deployed to Heroku
+- [ ] Developers have an automated test framework that can be run during development and CI, so that they can verify their code is functional in the development and deployment to production environments.
+
 ## Technical Stack
 
 ### Back End
